@@ -4,8 +4,8 @@ class Anagram
   def initialize(word)
   end
   
-  def match(word)
+  def match(some_word)
     comparison = []
-    comparison << word
+    
   end
 end
