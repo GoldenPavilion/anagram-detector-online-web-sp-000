@@ -5,5 +5,6 @@ class Anagram
   end
   
   def match(word)
+    word = []
   end
 end
