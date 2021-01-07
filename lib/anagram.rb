@@ -4,6 +4,6 @@ class Anagram
   def initialize(word)
   end
   
-  def match
+  def match(word)
   end
 end
