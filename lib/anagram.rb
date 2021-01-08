@@ -9,6 +9,7 @@ class Anagram
     comparison = []
     string.each do |w|
       w.split("")
+    end
     
   end
 end
