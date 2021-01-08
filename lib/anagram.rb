@@ -7,6 +7,7 @@ class Anagram
   
   def match(string)
     comparison = []
+    string.split
     
   end
 end
