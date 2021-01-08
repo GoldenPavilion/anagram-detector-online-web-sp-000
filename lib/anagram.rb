@@ -7,7 +7,7 @@ class Anagram
   
   def match(string)
     comparison = []
-    string.split
+    string.each do |w|
     
   end
 end
