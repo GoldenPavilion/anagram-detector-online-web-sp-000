@@ -5,7 +5,7 @@ class Anagram
     @word = word
   end
   
-  def match(some_word)
+  def match(string)
     comparison = []
     
   end
