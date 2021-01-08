@@ -6,7 +6,6 @@ class Anagram
   end
   
   def match(string)
-    comparison = []
     string.each do |w|
       w.split("").sort  == word.split("").sort 
     end
